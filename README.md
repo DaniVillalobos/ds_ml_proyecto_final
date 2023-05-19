@@ -2,9 +2,6 @@
 
 # Clasificacion Automatica de Tickets con NLP
 
-Integrantes
-Wilder Serdan (wserdan@gmail.com)
-Oscar Ramirez (oscar.ramirez.guachalla@gmail.com)
 Ruth Daniela Villalobos (ruthdanivillalobos@gmail.com)
 
 **TABLA DE CONTENIDO**
